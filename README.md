@@ -1,7 +1,7 @@
 # Sinema-Seanslari-WCF
 Bu servis yardımıyla sinemalar.com dan istediğiniz salona ait sinema filmleri bilgilerini güncel olarak alabilirsiniz
 
-Servis imizi projeye dahil ettikten sonra gerekli bağlantı için aşağıdaki kodalrı yazıyoruz
+Servis'imizi projeye dahil ettikten sonra gerekli bağlantı için aşağıdaki kodları yazıyoruz
 ```
  using (Sinema.SinemaClient sinema=new Sinema.SinemaClient())
             {
