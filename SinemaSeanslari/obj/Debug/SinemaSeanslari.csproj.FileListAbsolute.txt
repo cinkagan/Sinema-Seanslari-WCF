@@ -1,0 +1,10 @@
+C:\Users\EXPER-PC\source\repos\ConsoleApp1\SinemaSeanslari\bin\SinemaSeanslari.dll.config
+C:\Users\EXPER-PC\source\repos\ConsoleApp1\SinemaSeanslari\bin\SinemaSeanslari.dll
+C:\Users\EXPER-PC\source\repos\ConsoleApp1\SinemaSeanslari\bin\SinemaSeanslari.pdb
+C:\Users\EXPER-PC\source\repos\ConsoleApp1\SinemaSeanslari\bin\HtmlAgilityPack.dll
+C:\Users\EXPER-PC\source\repos\ConsoleApp1\SinemaSeanslari\bin\HtmlAgilityPack.pdb
+C:\Users\EXPER-PC\source\repos\ConsoleApp1\SinemaSeanslari\bin\HtmlAgilityPack.xml
+C:\Users\EXPER-PC\source\repos\ConsoleApp1\SinemaSeanslari\obj\Debug\SinemaSeanslari.csprojResolveAssemblyReference.cache
+C:\Users\EXPER-PC\source\repos\ConsoleApp1\SinemaSeanslari\obj\Debug\SinemaSeanslari.csproj.CoreCompileInputs.cache
+C:\Users\EXPER-PC\source\repos\ConsoleApp1\SinemaSeanslari\obj\Debug\SinemaSeanslari.dll
+C:\Users\EXPER-PC\source\repos\ConsoleApp1\SinemaSeanslari\obj\Debug\SinemaSeanslari.pdb
